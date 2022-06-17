@@ -4,7 +4,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 ## Built With
 
 - Frontend: HTML
-- Backend: JSON API's
+- Backend: JSON DB
 - Software Used: Json Power DB, Apache Netbeans IDE 14
 
 
